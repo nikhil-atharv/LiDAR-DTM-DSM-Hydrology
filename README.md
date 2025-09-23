@@ -23,8 +23,4 @@ Using Whitebox Workflows in Python, I was able to bring together multiple geospa
 
 
 
-This workflow highlights how powerful LiDAR is in deriving detailed surface and terrain models, and how Python makes it possible to automate and visualize complex geospatial processes efficiently. 🌍✨
-
-
-
-GitHub: 
+This workflow highlights how powerful LiDAR is in deriving detailed surface and terrain models, and how Python makes it possible to automate and visualize complex geospatial processes efficiently.
