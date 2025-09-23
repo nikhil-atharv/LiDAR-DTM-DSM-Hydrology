@@ -1,6 +1,8 @@
 # LiDAR-DTM-DSM-Hydrology
 This repository emphasizes the integration of LiDAR point cloud processing, DTM/DSM extraction, hydrology mapping, and 3D visualization using modern Python tools.
 
+<img width="1271" height="1182" alt="DTM" src="https://github.com/user-attachments/assets/37db4758-5ef6-411b-ae99-e0a02dfdd294" />
+
 
 🚀 LiDAR data processing and visualization!
 
