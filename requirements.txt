@@ -1,2 +1,2 @@
-white-box-workflows
+whitebox-workflows
 matplotlib
